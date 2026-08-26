@@ -15,7 +15,7 @@
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 *Difficult. The workflow would be embedded deep as it would provide a way to pair contract terms to the actual data performance across all market. Set up and feeding in the information. Difficult for a company to reload all contracting information into the system and organize the developed reporting strucure
 
-**Score rationale:**
+**Score rationale: Th eamount of data and amount of set up would need to be overcome. This would pair with a current product, making it harder to switch to a competitor. Its also a niche B2B network. **
 
 **Named attacker (from partner challenge):Legacy workflows and exactness of the information. This would help forecaste revenue and future contract terms ; data quality is very critical woudl probablistic work?**
 
