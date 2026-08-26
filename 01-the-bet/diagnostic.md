@@ -17,7 +17,7 @@
 
 **Score rationale:**
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):Legacy workflows and exactness of the information. This would help forecaste revenue and future contract terms ; data quality is very critical woudl probablistic work?**
 
 ---
 
@@ -31,12 +31,12 @@
 
 ---
 
-### Platform Exposure — 2/5
+### Platform Exposure — 4/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
 **Score rationale:**
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):Data is not publically avilable**
 
 ---
 
