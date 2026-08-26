@@ -3,8 +3,8 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**Product:**
-**Your Role:**
+**Product:Contract Intelligence**
+**Your Role: Director Product Management - Travel Agency Products**
 
 ---
 
