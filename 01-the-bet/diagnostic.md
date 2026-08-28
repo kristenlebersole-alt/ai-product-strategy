@@ -37,7 +37,9 @@
 
 **Score rationale: Majority of the underlying infrastructure that will help power and align this solution is proprietary, but if a large organization really wanted to push it, the size would help them compete, but still large barriers to entry as of today**
 
-**Named attacker (from partner challenge): Data is not publicly available. This all works on the agreements for these organizations to continue to provide data to us in a give to get fashion and trust we are a safe place to store these contract terms. A new entrant into the industry could make waves, but it would be more likely a GDS or other Travel Agency selling its processes like Aazins AWS pivot, which currently is unlikley, but something to keep watch**
+**Named attacker (from partner challenge): Sabre or Spotnanna **
+
+* Data is not publicly available. This all works on the agreements for these organizations to continue to provide data to us in a give to get fashion and trust we are a safe place to store these contract terms. A new entrant into the industry could make waves, but it would be more likely a GDS or other Travel Agency selling its processes like Aazins AWS pivot, which currently is unlikley, but something to keep watch**
 
 ---
 
