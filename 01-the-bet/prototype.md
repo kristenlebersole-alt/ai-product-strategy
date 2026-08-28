@@ -1,7 +1,7 @@
 # The Prototype Bet
 
 ## What I Built
-* <!-- An ability to upload the contract with I helping to read the PDF and parse the various rules into an editable table as a verify of the informtion --> **
+<!-- An ability to upload the contract with I helping to read the PDF and parse the various rules into an editable table as a verify of the informtion --> **
 *An ability to upload the contract with I helping to read the PDF and parse the various rules into an editable table as a verify of the informtion*
 
 ## Tool Used
@@ -11,6 +11,7 @@
 
 ## Prototype Link
 <!-- Paste the shareable URL -->
+* https://lovable.dev/projects/11e2d918-c432-4875-a860-073a2946e479?magic_link=mc_ed2a06df-c6f9-4c25-975d-de4247002702
 
 ## AI Value Archetype
 <!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
