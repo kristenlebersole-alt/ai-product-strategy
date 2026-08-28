@@ -1,10 +1,10 @@
 # The Prototype Bet
 
 ## What I Built
-<!-- An ability to upload the contract with I helping to read the PDF and parse the various rules into an editable table as a verify of the informtion -->
+** <!-- An ability to upload the contract with I helping to read the PDF and parse the various rules into an editable table as a verify of the informtion --> **
 
 ## Tool Used
-<!-- Loveable -->
+**<!-- Loveable -->**
 
 ## Prototype Link
 <!-- Paste the shareable URL -->
