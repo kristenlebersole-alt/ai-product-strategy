@@ -11,32 +11,33 @@
 
 ## Scores
 
-### Contextual Moat — 3 / 5
+### Contextual Moat — 4 / 5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
-*Difficult. The workflow would be embedded deep as it would provide a way to pair contract terms to the actual data performance across all market. Set up and feeding in the information. Difficult for a company to reload all contracting information into the system and organize the developed reporting strucure
+*Difficult. The workflow would be embedded deep as it would provide a way to pair contract terms to the actual data performance across all market. Set up and feeding in the information. Difficult for a company to reload all contracting information into the system and organize the developed reporting structure. As a competitor entering the space, the AI givens an easier advantage for us to enter the market, and pair with our data that would help analyze the contract performance against the contract for more aligned Quarterly Reviews. **
 
-**Score rationale: Th eamount of data and amount of set up would need to be overcome. This would pair with a current product, making it harder to switch to a competitor. Its also a niche B2B network. **
+**Score rationale: The amount of data and amount of set up would need to be overcome. This would pair with a current product, making it harder to switch to a competitor. Travel Agencies and Airline contracts are very detailed and complex. Its also a niche B2B network. **
 
-**Named attacker (from partner challenge):Legacy workflows and exactness of the information. This would help forecaste revenue and future contract terms ; data quality is very critical woudl probablistic work?**
+**Named attacker (from partner challenge): Legacy workflows within the company and competitor product offering, though it is not AI,  and exactness of the information. This would help forecast revenue and future contract terms; quality of the rule extraction is critical to success**
 
 ---
 
-### Data Advantage — 4 / 5
+### Data Advantage — 5 / 5
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
-*ARC has teh data advantage given our give to get models and the industries trust in how we deliver data solutions. This is a 
+*Our company has the data advantage given our give to get models and the industries trust in how we deliver data solutions. It is why people are switching to our solution faster and this add on powered with AI will continue to push the market. **
 
-**Score rationale:**
+**Score rationale: Our data is what already sets us apart, given customers an easy way to connected sensative contracts to actual data. Today most of this work is done in excel spreadsheets or through manual contract term data entry **
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge): **
 
 ---
 
-### Platform Exposure — 4/5
+### Platform Exposure — 3/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
+*As AI booking models grow, this is an area to watch. Larger organizations currently do not have the capabilities or business to do this. They are mainly focused on the B2C aspect of airline travel. If they wanted to pivot, there size could make it easy to build the solution, but the difficultly is the agreements and data that ultimately will power since it is proprietary and needs a large number of airlines and travel agencies as members giving data. **
 
-**Score rationale:**
+**Score rationale: Majority of the underlying infrastructure that will help power and align this solution is proprietary, but if a large organization really wanted to push it, the size would help them compete, but still large barriers to entry as of today**
 
-**Named attacker (from partner challenge):Data is not publically avilable**
+**Named attacker (from partner challenge): Data is not publicly available. This all works on the agreements for these organizations to continue to provide data to us in a give to get fashion and trust we are a safe place to store these contract terms. A new entrant into the industry could make waves, but it would be more likely a GDS or other Travel Agency selling its processes like Aazins AWS pivot, which currently is unlikley, but something to keep watch**
 
 ---
 
