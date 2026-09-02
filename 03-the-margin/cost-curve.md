@@ -41,6 +41,10 @@
 
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
+-- Want a multi - Provider Routing based on the activity.
+Could add an initial set up costs for the initial contract reading.
+Consider diluting the model type, based on usage amount to try to curb costs from over usage by customers. This would be a by month/by user usage on potential output. 
+Size for us matters in organizations. 
 
 **Triage model:**
 **Frontier model:**
