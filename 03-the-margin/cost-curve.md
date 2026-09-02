@@ -39,6 +39,21 @@
 **Proposed AI pricing:**
 **Model:** seat-based / usage-based / outcome-based / hybrid
 
+Pricing Strategy Block, Module 3
+
+Pricing Strategy
+- Strategy posture: Maximize
+- Pricing model: Seat / Access
+- Unit of work metered: Reports Generated
+- Base fee ($/month): 10000
+- Price per unit: $0
+- Estimated units/user/month: 50
+- Implied revenue/user/month: $10000.00
+
+Decision Note
+Why this pricing structure fits the buyer and the value delivered: It mimics the pricing position and structure of the original product this will be enhancing. Since this product is an Add-On to a current product and does not service all users, mimicking a pricing strategy of the original to start. Additional this would be a revenue generating and margin generating analysis for customers driving the value higher.
+
+
 ## Stress Tests
 
 | Scenario | Impact on Margin | Response |
