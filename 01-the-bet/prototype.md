@@ -3,7 +3,7 @@
 ## What I Built
 <!-- An ability to upload the contract with I helping to read the PDF and parse the various rules into an editable table as a verify of the informtion -->
 
-*An ability to upload the contract and read the PDF and parse the various rules into an editable table as a verify of the information - This is the part that is upfront
+*1) An ability to upload the contract and read the PDF and parse the various rules into an editable table as a verify of the information - This is the part that is upfront
 2) Ability for user to modify and fix the rules or expand nuances AI might miss (Not AI, User needed and Review)
 3) Matches the contract rules / terms with the performance data we already have for 1) Repeatable QBR metics and review (Cheap AI; Some User); 2) deeper analysis and trends review (Cheap); 3) Forcasteing, scenario analysis, contract renegotiation scenarios (tradeoff analysis to gain more revenue through contracts (Frontier)*
 
