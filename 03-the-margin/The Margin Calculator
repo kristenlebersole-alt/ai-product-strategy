@@ -1,0 +1,20 @@
+**
+# Margin Calculator, Module 3
+
+## Inputs
+- Avg requests/user/month: 500
+- Blended cost/request: $0.02
+- Revenue/user/month: $70
+- Non-AI COGS/user/month: $10
+
+## Current Margin
+- AI COGS/user: $10.00
+- Total COGS/user: $20.00
+- Gross margin: 71.4% ($50.00/user)
+
+## Stress Test
+| Scenario | AI COGS | Margin |
+|----------|---------|--------|
+| 3x Cost  | $30.00 | 42.9% ($30.00) |
+| 2x Usage | $20.00 | 57.1% ($40.00) |
+
