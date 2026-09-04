@@ -31,7 +31,7 @@ Dataset health
 
 ## Confidence UX Design
 
-**Approach:** Display the estimated statistics by a complexity rating (Green, Yellow, Red) on each rule (applied at time of parsing). Humans able to review and update. Stats on updates and changes. Visible
+**Approach:** Display the estimated statistics by a complexity rating (Green, Yellow, Red) on each rule (applied at time of parsing). Humans able to review and update. Stats on updates and changes. Visible Reasoning on why confidence is low for yellow and red. Example would be contract has create a rule using a new metric never used in previous contracts so it cant slot it into the table or view it easily. This needs to be visible to user and notification to internal in the background. 
 
 **Confident (>90%):** User can Approve/Edit/Reject. Show Confidence Color Rating. Provide Image extract.
 
