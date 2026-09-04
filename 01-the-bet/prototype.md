@@ -14,7 +14,7 @@
 
 ## Prototype Link
 <!-- Paste the shareable URL -->
-* https://lovable.dev/projects/11e2d918-c432-4875-a860-073a2946e479?magic_link=mc_ed2a06df-c6f9-4c25-975d-de4247002702
+*[ https://lovable.dev/projects/11e2d918-c432-4875-a860-073a2946e479?magic_link=mc_ed2a06df-c6f9-4c25-975d-de4247002702](https://lovable.dev/projects/11e2d918-c432-4875-a860-073a2946e479?magic_link=mc_efe04817-0566-41ad-929f-9ffa18b97729)
 
 ## AI Value Archetype
 <!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
