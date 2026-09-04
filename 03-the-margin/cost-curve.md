@@ -8,7 +8,7 @@
 | 1) Read the Contract PDF Rule Parsing | Medium | Mid | $0.02 | 10% | $0.002 | LEADER: This is a Must Have. Airline/Agency Contracts have a lot of rules and some are nested and very specific. Looking to hit 85% quality on reading the contract and proper parsing |
 | 2) User to modify and fix the rules or expand nuances AI might miss | N/A | N/A | N/A | N/A | N/A | LEADER: This is a Must Have. User Quality Varified. Ok if updating or modifying 15% of rules, particularly complex. This is a heavy set-up usage for new customers or new contracts. |
 | 3) Matches the contract rules / terms with the performance data we already have | N/A | N/A | N/A | N/A | N/A | Below are the 3 known use cases to use AI with the data. Common Needs that all Quarterly Reviews Handle. They have a need/must know, nice to know, interesting insights providing value
-| 3A) Repeatable QBR metrics and review (Cheap AI; Some User); | Simple | Small | $.01 | 45% | $.0045 | LEADER: This is a Must Have. Common Needs (The Need / Must Know) that all Quarterly Reviews Handle. A person or set of persons job is to exclusively do this today for all airlines/Travel Agency contracts. Doing this well, means these roles can focus on the Nice to Have and Value generating insights. |
+| 3A) Repeatable QBR metrics and review (Cheap AI; Some User); | Simple | Small | $.01 | 45% | $.0045 | LEADER: This is a Must Have. Common Needs (The Need / Must Know) that all Quarterly Reviews Handle. A person or set of persons job is to exclusively do this today for all airlines/Travel Agency contracts. Doing this well, means these roles can focus on the Nice to Have and Value generating insights. This is where the rules meets the data and the core product. |
 | 3B) QBR deeper analysis and trends review (Cheap); | Simple | Mid | $0.02 | 25% | $0.009 | Killer: Value Generating & Interesting Insights and Value Adds of QBR |  
 | 3D) Future Scenario analysis and contract renegotiation preparation | Complex | Frontier | $0.09 | 10% | $0.009 | Killer: Preparation and tradeoff analysis to gain more revenue through contracts  |
 | **Blended** |  |  |  | 100% | $0.0245 | Majority of Usage is in the Simple and Small repeatable models. Risk if more usage goes to future scenarios. |  
@@ -41,7 +41,7 @@
 
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
--- Want a multi - Provider Routing based on the activity.
+-- Want a multi - Provider Routing based on the activity and to utilze the small to frontier model capability. Price potentially covers a certain amount of usage/tokens. 
 Could add an initial set up costs for the initial contract reading.
 Consider diluting the model type, based on usage amount to try to curb costs from over usage by customers. This would be a by month/by user usage on potential output. 
 Size for us matters in organizations. 
@@ -49,7 +49,7 @@ Size for us matters in organizations.
 **Triage model:**
 **Frontier model:**
 **Routing rule:**
-**Expected cascade ratio:**
+**Expected cascade ratio:** Expected Ration 70% to 30% Frontier. This would depend on customer type over time. 
 
 ## Pricing Model
 
@@ -89,6 +89,6 @@ Before Revenue: $2 Million for the data and reporting tool
 Manual Data Entry and Manual report running to pair actual data (what was actually sold) to what was in the contract and if they will fulfill the terms of the contract based on the various routes, market share. Highly Manual, and most focus is placed on the need/must haves of the QBR.
 **After (AI-enabled):**
 After AI: $5 Million for Analysis and Scenarios. 
-Providing Value in the Analysis and Scenarios. Ability to increase commission by finding either overachieving routes, undervalued routes, or areas Travel Agency makes an Airline Network profitable by serving less Airline focused routes. Ability to do it faster and find the diamonds in the rough helps bring focus to the more interesting areas
+Providing Value in the Analysis and Scenarios. Ability to increase commission by finding either overachieving routes, undervalued routes, or areas Travel Agency makes an Airline Network profitable by serving less Airline focused routes. Ability to do it faster and find the diamonds in the rough helps bring focus to the more interesting areas. This has potential to expand as a capability for other products in the company. Analysis is only specific to one of hte use cases. 
 **Net margin shift:**
-$3 Million increase. The Contract analysis and Intelligence pairing with the data increases the value. Ability to focus on less of the needs/must dos as they are repeatable and focus on the revenue & driving value increasing aspects leads this to significantly increase value.
+$3 Million increase. The Contract analysis and Intelligence pairing with the data increases the value. Ability to focus on less of the needs/must dos as they are repeatable and focus on the revenue & driving value increasing aspects leads this to significantly increase value. This is looking at current customer and prospect list. Depending on automation, could expand to additional smaller, but economically beneficial customer base who needs UI and standardization/automation help. 
