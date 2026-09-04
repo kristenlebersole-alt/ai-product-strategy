@@ -21,6 +21,7 @@ Test cases:
   11. Edge: N · Judge: both, IN: Extraction Completeness → OUT: Human Touch Needed
   12. Edge: N · Judge: rule, IN: Rule Duplication → OUT: Review of final Dataset - Adversarial
   13. Edge: N · Judge: rule, IN: Example PDF Contract → OUT: Actual Examples - Proxy of Users
+  14. Edge: N . Judge: both, IN: Actual example contract data structure and set from customer provided examples (airlines and travel agency have standards as a base can use)
 
 Dataset health
 - Total: 13
@@ -30,11 +31,22 @@ Dataset health
 
 ## Confidence UX Design
 
-**Approach:** show uncertainty / tiered confidence / human-in-loop trigger
+**Approach:** Display the estimated statistics by a complexity rating (Green, Yellow, Red) on each rule (applied at time of parsing). Humans able to review and update. Stats on updates and changes. Visible
 
-**High confidence (>90%):**
-**Medium confidence (70-90%):**
-**Low confidence (<70%):**
+**Confident (>90%):** User can Approve/Edit/Reject. Show Confidence Color Rating. Provide Image extract.
+
+**Uncertain (50-90%):** Organize by Confidence Color Rating, Highlight areas of Questions for Review. Provide Image extract. User can Approve/Edit/Reject.
+
+**Not confident (<50%):** Have these at the top. Provide Image and location attempted to extract.  Provide a Partial generation, but Color Red for Clarity. User can Approve/Edit/Reject.
+
+**User control surface:** 
+
+- Users correct & override outputs
+- Corrections feed back into the model / dataset
+- Users adjust the confidence threshold _(not yet)_- Thinking this might be a behind the scenes and might be controlled by the correction set. 
+- Users see AI reasoning / drivers _(not yet)_
+- - Users see overall statistics on confidence area and suggested re-load and changes to make to increase the readability (if they used a blurry image vs actual contract in PDF). 
+
 
 **User control surface:**
 
@@ -49,6 +61,7 @@ Dataset health
 
 ## HITL Architecture
 <!-- When does a human step in? What's the escalation path? -->
+User comes in to be able to review and modify ever rule parsed and put in. 
 
 ## Red-Team Findings
 *What failure mode did your partner find that you missed?*
