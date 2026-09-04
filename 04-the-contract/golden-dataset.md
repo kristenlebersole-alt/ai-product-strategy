@@ -31,13 +31,13 @@ Dataset health
 
 ## Confidence UX Design
 
-**Approach:** Display the estimated statistics by a complexity rating (Green, Yellow, Red) on each rule (applied at time of parsing). Humans able to review and update. Stats on updates and changes. Visible Reasoning on why confidence is low for yellow and red. Example would be contract has create a rule using a new metric never used in previous contracts so it cant slot it into the table or view it easily. This needs to be visible to user and notification to internal in the background. 
+**Approach:** Display the estimated statistics by a complexity rating (Green, Yellow, Red) on each rule (applied at time of parsing). Humans able to review and update. Stats on updates and changes. Visible Reasoning on why confidence is low for yellow and red. Example would be contract has create a rule using a new metric never used in previous contracts so it cant slot it into the table or view it easily. This needs to be visible to user and notification to internal in the background. Tooltips and clear help links. 
 
-**Confident (>90%):** User can Approve/Edit/Reject. Show Confidence Color Rating. Provide Image extract.
+**Confident (>90%):** User can Approve/Edit/Reject. Show Confidence Color Rating as Green. Provide Image extract.
 
-**Uncertain (50-90%):** Organize by Confidence Color Rating, Highlight areas of Questions for Review. Provide Image extract. User can Approve/Edit/Reject.
+**Uncertain (50-90%):** Organize by Confidence Color Rating Yellow, Highlight areas of Questions for Review. Provide Image extract. User can Approve/Edit/Reject.
 
-**Not confident (<50%):** Have these at the top. Provide Image and location attempted to extract.  Provide a Partial generation, but Color Red for Clarity. User can Approve/Edit/Reject.
+**Not confident (<50%):** Have these at the top, Color Rating RED. Provide Image and location attempted to extract.  Provide a Partial generation, with error code (in laymens terms) to highlight potential issue. User can Approve/Edit/Reject.
 
 **User control surface:** 
 
