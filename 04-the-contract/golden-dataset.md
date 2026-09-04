@@ -47,21 +47,23 @@ Dataset health
 - Users see AI reasoning / drivers _(not yet)_
 - - Users see overall statistics on confidence area and suggested re-load and changes to make to increase the readability (if they used a blurry image vs actual contract in PDF). 
 
-
-**User control surface:**
-
 ## Reliability Contract
 
 | Metric | Target | Measurement | Alert Threshold |
 |--------|--------|-------------|-----------------|
-| Accuracy | | | |
-| Hallucination rate | | | |
-| Latency (p95) | | | |
-| Drift velocity | | | |
+| Accuracy | 90% | Rule Correctness (against user editing); Re-upload Rate | 85% → trigger gold-set audit |
+| Hallucination rate | <1.5% | Adversary Golden Data Set regression every week. | >2.5% → page on-call |
+| Latency (p95) | <2s | Monitoring in Datadog with Auto-notifcation triggers to SRE. Aligned with current company standards for AI. | .4s average across all users |
+| Drift velocity | .75%/2 weeks | Rule to Dat Structure misalignment - Reasoning, Contracts could start to define rules on new or changing metrics (bundles, anciallary) that are not captured yet. Parsing table mismatch should identify. | >.5% decay/week → trigger gold-set audit |
 
 ## HITL Architecture
-<!-- When does a human step in? What's the escalation path? -->
-User comes in to be able to review and modify ever rule parsed and put in. 
+
+**Trigger:** User enters with visibility to all rules, ability to name rules, and ability to edit rules. Internal humans enter when certain notifications, particularly around data strcuture to data read misalignment happens or a decrease in average correctness numbers resulting in more red confidence rules. Meta data and user data is tracked to calculate these statistics
+
+**Reviewer:** User and SRE rotation (Standard)
+
+**Feedback loop:** Review between engineer and product, identify updated dataset, potential call with customer (if clear it is a new rule type). Continue to monitor the correction or lack there off.
+
 
 ## Red-Team Findings
 *What failure mode did your partner find that you missed?*
