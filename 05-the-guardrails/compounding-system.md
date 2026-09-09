@@ -22,14 +22,24 @@
 
 ## Governance Policy
 
-**Scope:**
-**Autonomy boundaries:**
-**Escalation triggers:**
-**Audit cadence:**
-**Regulatory exposure (EU AI Act / other):**
+<!-- Governance Policy, Contract Intelligence -->
+
+## Governance Policy
+
+**Scope:** Covers the Customer Facing Product, AI Models, and Golden Dataset, Databases; User Access and Preferences Excludes: Internal Dashboards and Reporting, Training
+
+**Autonomy boundaries:** User Profile and Preferences, never auto. Rule Structure in Engine (Rule Acceptance), human approval required. Token Over usage - Limit with Message, auto. Visualization and Report Creation, auto. Contract Rules / Contract Visual Retention Changes, human approval required.
+
+**Escalation triggers:** 1) Customer Message indicates breach in privacy or security (Every time) 2) Editability needed of rules increases 10% over 4 uploads 3) Token Overusage 2% over customer limits or 5% over product limits 4) Data Associated with PII or PCI Discovered 5) Data Retention (Contract Visuals) past 1 YEAR of Approval
+
+**Audit cadence:** Daily, Usage and Update Dashboards (SRE). Daily, Golden Dataset Modifications/Changes (Lead Engineer). Weekly, Error Rates and Issues (Product Manager).
+
+**Regulatory exposure (EU AI Act / other):** Customer Privacy and Data Privacy (GDPR and US State Privacy Data Broker Protections). Controls: No training on PII or PCI or Legal Data List.
 
 ## Agent Topology
-<!-- If using agents: what can each agent do? What can't it do? Who approves what? -->
+
+Not Shipping Agents
+
 
 ## Shadow AI Audit
 
