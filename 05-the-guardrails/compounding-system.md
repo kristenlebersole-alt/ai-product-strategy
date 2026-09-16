@@ -5,7 +5,7 @@
 | Loop | Input | Output | Compounds? | Status |
 |------|-------|--------|-----------|--------|
 | Recursive Learning | User Edits on Rule Patterns | Golden Data Set | Y | active |
-| Cross-Domain Transfer | Contract 1 Helps Contract 20 | · | Y | active |
+| Cross-Domain Transfer | Contract 1 Helps Contract 20 | Golden Data Set | Y | active |
 | Network Intelligence | Customers Rules Help Identify and Quality Check all rule patterns and examples | Golden Data Set | Y | active |
 | Cross Domain | Rules against Data help identify need for change or improved reports or visualizations | Visualization or Report Gaps via Case Tickets Queue | N | broken |
 
