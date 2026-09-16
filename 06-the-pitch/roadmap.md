@@ -84,5 +84,9 @@ The one question they'll ask first: "What stops Adobe or OpenAI from shipping th
 *Your 3-sentence AI strategy from Module 1 vs. what you'd say now:*
 
 **M1 baseline:**
+Business Strategy --> Conservative Approach, start with using AI for own productivity, for product move lightly, (embed into current products) to develop with and into our products. We are focused on taking care to protect our data and our IP, but using AI to extrapolate and identify data trends. Use it as a differentiator and part of a larger product platform strategy. 
+
+Product Strategy Use AI to enhance current products by providing features and functionality that helps identify and get data insights quicker. Also use the AI to fill in the gaps of missing reference data that is publicly available.
 
 **Now:**
+We use AI to extract additional value and create additional competitive differentiation for our data products and additional data extraction from complex sources. Utilize AI with human guardrails and oversight to ensure quality and trust with customers. Start small with iterative POC to Pilot to Customer to ensure cost effective and governance measures that align to our mission of being the "trusted source of airline intelligence",
