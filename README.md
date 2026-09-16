@@ -86,10 +86,16 @@
 - **Compounding System:** | Loop | Input | Output | Compounds? | Status | |------|-------|--------|-----------|--------| | Recursive Learning | User Edits on Rule Patterns | Golden Data Set | Y | active | | Cross-Domain Transfer | Contract 1 Help…
 - **Governance Posture:**
 - **Autonomy Boundaries:**
-- **Escalation Triggers:**
-- **Audit Cadence:**
+- **Escalation Triggers:** Escalation triggers: 1) Customer Message indicates breach in privacy or security (Every time) 2) Editability needed of rules increases 10% over 4 uploads 3) Token Overusage 2% over customer limits or 5% over product limits 4) Data Associated with PII or PCI Discovered 5) Data Retention (Contract Visuals) past 1 YEAR of Approval
+
+- **Audit Cadence:** Audit cadence: Daily, Usage and Update Dashboards (SRE). Daily, Golden Dataset Modifications/Changes (Lead Engineer). Weekly, Error Rates and Issues (Product Manager).
 - **Shadow AI Audit (user-side):**
 - **Agent Boundaries:** Not Shipping Agents
-- **Regulatory Exposure:**
+- **Regulatory Exposure:** Regulatory exposure (EU AI Act / other): Customer Privacy and Data Privacy (GDPR and US State Privacy Data Broker Protections). Controls: No training on PII or PCI or Legal Data List.
+
+- 
+
+
+
 
 → Details: [`05-the-guardrails/`](05-the-guardrails/)
