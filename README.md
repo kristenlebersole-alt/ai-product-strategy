@@ -84,14 +84,18 @@
 **What breaks when this scales, and what compounds.**
 
 - **Compounding System:** | Loop | Input | Output | Compounds? | Status | |------|-------|--------|-----------|--------| | Recursive Learning | User Edits on Rule Patterns | Golden Data Set | Y | active | | Cross-Domain Transfer | Contract 1 Help…
-- **Governance Posture:**
-- **Autonomy Boundaries:**
+- **Governance Posture:** - Scope: Covers the Customer Facing Product, AI Models, and Golden Dataset, Databases; User Access and Preferences Excludes: Internal Dashboards and Reporting, Training
+- **Autonomy Boundaries:** Autonomy boundaries: User Profile and Preferences, never auto. Rule Structure in Engine (Rule Acceptance), human approval required. Token Over usage - Limit with Message, auto. Visualization and Report Creation, auto. Contract Rules / Contract Visual Retention Changes, human approval required.
 - **Escalation Triggers:** Escalation triggers: 1) Customer Message indicates breach in privacy or security (Every time) 2) Editability needed of rules increases 10% over 4 uploads 3) Token Overusage 2% over customer limits or 5% over product limits 4) Data Associated with PII or PCI Discovered 5) Data Retention (Contract Visuals) past 1 YEAR of Approval
 
 - **Audit Cadence:** Audit cadence: Daily, Usage and Update Dashboards (SRE). Daily, Golden Dataset Modifications/Changes (Lead Engineer). Weekly, Error Rates and Issues (Product Manager).
 - **Shadow AI Audit (user-side):**
 - **Agent Boundaries:** Not Shipping Agents
 - **Regulatory Exposure:** Regulatory exposure (EU AI Act / other): Customer Privacy and Data Privacy (GDPR and US State Privacy Data Broker Protections). Controls: No training on PII or PCI or Legal Data List.
+
+
+
+
 
 - 
 
