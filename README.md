@@ -52,13 +52,14 @@
 **Will this make money or bleed it?**
 
 - **Gross Margin (current):**
-- **Gross Margin (AI-adjusted):**
+- **Gross Margin (AI-adjusted):** 71.4% ($50.00/user)
 - **Pricing Model:** seat-based / usage-based / outcome-based / hybrid
 - **Pricing Today → Tomorrow:** **Proposed AI pricing:** → **Model:** seat-based / usage-based / outcome-based / hybrid
-- **Total AI COGS / unit:**
+- **Total AI COGS / unit:** AI COGS/user: $10.00
 - **Cascading Strategy:** Triage: **Frontier model:**; frontier: **Routing rule:**; ratio Expected Ration 70% to 30% Frontier. This would depend on customer type over time.
 - **Net Margin Shift:** $3 Million increase. The Contract analysis and Intelligence pairing with the data increases the value.…
 - **Break-even at:**
+
 
 → Details: [`03-the-margin/`](03-the-margin/)
 
