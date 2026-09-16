@@ -24,8 +24,8 @@
 - **Product:**
 - **AI Value Archetype:** Automator = AI PDF reader and extractor into a rules engine template (Standard dataset). There are models that can be purchased and used *
 - **Vulnerability Scores:** _(add: Moat _/5 · Data _/5 · Platform _/5)_
-- **Top Risk:** * Our own customers could recreate this on their own contracts and just buy the data from us, particularly the larger organiations, pricing curve will help diminish this *
-- **Confidence:** High Confidence (add: H / M / L)_
+- **Top Risk:** * Our own customers could recreate this on their own contracts and just buy the data from us, particularly the larger organizations, pricing curve will help diminish this. The compounding of multiple airline and agency customers contracts and contract terms that looks at if contracts are similar and increases the chance of limiting hallucinations. *
+- **Confidence:** High Confidence (add: H / M / L) Based on pilot working and a pilot customer_
 - **Prototype:** [ https://lovable.dev/projects/11e2d918-c432-4875-a860-073a2946e479?magic_link=mc_ed2a06df-c6f9-4c25-975d-de4247002702](https://lovable.dev/projects/11e2d918-c432-4875-a860-073a2946e479?magic_link=mc_efe04817-0566-41ad-929f-9ffa18b97729)
 - **Kill Criteria:** *In ability to get the AI PDF reader to reliably pull 90% of the contracts information Probablistic issues in which it produces too many hallunications with the data or overtime*
 
