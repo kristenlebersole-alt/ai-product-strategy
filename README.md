@@ -118,7 +118,7 @@ Visualizations and Reports | source: Support ticket | signal: Trust gap | freq: 
 - **Horizon 2 (Next):** API to AI Reader · Pilot with 2-3 Customers, Airline and Agency spread
 - **Horizon 3 (Bet):** Add in Natural Language Report generation for QBR processing
 - **Board Narrative:** **The case:**
-- **Ask:** Thesis (1 sentence):
+- **Ask:** Thesis (1 sentence): We turn messy, high-stakes airline and agency commission contracts into a trusted, structured rules database automatically, so customers stop manually re-keying contract terms and start using that data to run negotiations and QBRs.
 - **Key Strategic Change:**
 
 → Details: [`06-the-pitch/`](06-the-pitch/)
