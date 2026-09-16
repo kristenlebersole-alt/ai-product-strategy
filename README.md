@@ -97,12 +97,17 @@ Visualizations and Reports | source: Support ticket | signal: Trust gap | freq: 
 - **Regulatory Exposure:** Regulatory exposure (EU AI Act / other): Customer Privacy and Data Privacy (GDPR and US State Privacy Data Broker Protections). Controls: No training on PII or PCI or Legal Data List.
 
 
-
-
-
-- 
-
-
-
-
 → Details: [`05-the-guardrails/`](05-the-guardrails/)
+
+## The Pitch (M6)
+
+**How you get this funded, shipped, and adopted.**
+
+- **Horizon 1 (Now):** AI PDF Contract Reader
+- **Horizon 2 (Next):**
+- **Horizon 3 (Bet):** Developing the compounding asset of the accumulated airline-contract-specific rule library and pairing it with the data 
+- **Board Narrative:** **The case:**
+- **Ask:** ## M1 Baseline vs. Now
+- **Key Strategic Change:**
+
+→ Details: [`06-the-pitch/`](06-the-pitch/)
