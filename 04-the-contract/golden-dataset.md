@@ -66,4 +66,5 @@ Dataset health
 
 
 ## Red-Team Findings
-*What failure mode did your partner find that you missed?*
+*What failure mode did your partner find that you missed?
+Add a specific stress test: run the extractor against your 10 messiest real contracts (not the golden dataset) and report the failure rate before committing further roadmap. Contracts come from customer source with a PDF or API calls
