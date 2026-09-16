@@ -110,4 +110,15 @@ Visualizations and Reports | source: Support ticket | signal: Trust gap | freq: 
 - **Ask:** ## M1 Baseline vs. Now
 - **Key Strategic Change:**
 
+- ## The Pitch (M6)
+
+**How you get this funded, shipped, and adopted.**
+
+- **Horizon 1 (Now):** PDF to AI Reader using contract examples · Create Airline Rules Database structure · Mapping Data Metrics used in Contracts to Database outputs · Develop Upload UI · Develop UI for Rules Manual Modification · Connect to Testing Data set for Performance Analysis · Integrate Visual UI Dashboards (Discovery Point) · Integrate Report and Analysis storage · Develop Initial User Guardrails · Develop Automated AI Triggers for Cost, Usage, Quality Decgridation
+- **Horizon 2 (Next):** API to AI Reader · Pilot with 2-3 Customers, Airline and Agency spread
+- **Horizon 3 (Bet):** Add in Natural Language Report generation for QBR processing
+- **Board Narrative:** **The case:**
+- **Ask:** Thesis (1 sentence):
+- **Key Strategic Change:**
+
 → Details: [`06-the-pitch/`](06-the-pitch/)
