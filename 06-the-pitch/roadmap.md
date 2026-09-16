@@ -58,6 +58,28 @@ Add in Natural Language Report generation for QBR processing	Moat	Demand signal 
 
 **The ask:**
 
+Thesis (1 sentence):
+We turn messy, high-stakes airline and agency commission contracts into a trusted, structured rules database automatically, so customers stop manually re-keying contract terms and start using that data to run negotiations and QBRs.
+
+The case:
+
+Why now: Commission and interline contracts are re-negotiated constantly and manually re-keyed today — our own pilot customer confirms this is active, paid-for pain (their shadow spend shows $4,000/month on contract scenario negotiation work and $1,000/month on contract development, both already flagged internally as "Build" priorities). The extraction technology has just crossed the reliability threshold where this is buildable at 90% accuracy in a pilot — that threshold didn't exist 12-18 months ago. And the window is closing: platform players are moving toward generic document extraction, so the advantage is in moving now, not in the technology itself.
+What's defensible: I'll be direct — today, it isn't defensible yet, and I'm not going to pretend otherwise. Our Data Flywheel score is 12/20, and our Encroachment Defense against Adobe, OpenAI, or Google shipping this as a feature is currently an open question, not an answer. The moat we're betting we can build is cross-customer compounding: contracts across multiple airline and agency customers share enough structure that pooled data reduces hallucination rates and gets harder to replicate the more customers we onboard. That's a hypothesis, not a proof point yet — which is exactly what this POC is designed to test.
+The economics: At $50/user with $10/user AI cost, we're at 71.4% gross margin on paper. I want to flag two open items rather than paper over them: pricing model is still undecided across four options (seat, usage, outcome, hybrid), and the $3M net margin shift we're projecting has no stated baseline, so I can't yet defend that number under scrutiny. Both need to be resolved before this scales past POC.
+
+The risks:
+
+Trust / failure modes: Our reliability target is 90%, and the failure mode that would put us on the front page is a misread contract term producing a wrong commission payment or missed liability clause. The catch: every extracted rule is scored Green/Yellow/Red at parse time, and Yellow/Red require human review before a rule goes live — nothing auto-applies at low confidence. What I can't yet tell you is our tested failure mode coverage; that field in our own strategy is still blank. That's a real gap, not a rounding error, and closing it is one of the three H1 initiatives already in motion.
+Scale / governance: We have real guardrails — daily audit of golden dataset changes, weekly error rate review, hard escalation triggers on PII/PCI exposure and token overuse. One internal tension worth surfacing: we've drawn a boundary of "not shipping agents," but our own shadow AI audit shows customers already spending real money on agent-shaped work (contract scenario negotiation, $4,000/month). That's either a deliberate risk boundary given the legal stakes, or it's leaving demand on the table — I don't think we can answer that definitively until after the POC.
+Competitive: The scenario that kills this is if a platform player ships equivalent contract extraction natively within the pilot window, or if our cross-customer compounding hypothesis fails to move the reliability needle. Concretely: if piloting across 2+ distinct customer contract types doesn't show measurable accuracy improvement from pooled data by week 10, we stop treating cross-contract compounding as our moat and go back to the drawing board on defensibility.
+
+The ask:
+$1M and 7 headcount (PM, Product Owner, SE, 2 DE, 2 QE, 1 Analyst) over 3 months to land one development partner airline or agency, build the rules database against real contracts, and prove out QBR-ready output. The decision gate is partner commitment plus POC completion — this is what earns the right to go pursue additional pilot customers. What this pauses elsewhere in the portfolio isn't specified in the strategy as written, and that's the first question this room will ask — worth having a real answer before you walk in, not just "trust me."
+
+Opening line (literally say this first): "We can turn a customer's commission contracts into a trusted database automatically — the question in front of you isn't whether the technology works, it's whether we can prove it compounds before someone else ships the same thing."
+If you only get 60 seconds: We turn manually re-keyed airline and agency contracts into a trusted, automated rules database. The real risk is that our defensibility is unproven — we're betting cross-customer data compounding creates a moat platforms can't easily copy, and this POC is how we test that. We're asking for $1M and 7 people over 3 months to land one development partner and prove it out before scaling further.
+The one question they'll ask first: "What stops Adobe or OpenAI from shipping this exact capability in 12 months?" Honest answer that holds up: nothing stops them from shipping generic contract extraction — what we're betting on, and what this POC specifically tests, is whether pooled data across multiple airline and agency contracts creates a reliability edge and workflow lock-in that a generic reader can't match on day one; if the pilot doesn't show that by week 10, we treat it as disproven and don't scale past this POC.
+
 ## M1 Baseline vs. Now
 *Your 3-sentence AI strategy from Module 1 vs. what you'd say now:*
 
