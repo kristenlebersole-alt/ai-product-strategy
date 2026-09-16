@@ -14,18 +14,6 @@
 | **Blended** |  |  |  | 100% | $0.0245 | Majority of Usage is in the Simple and Small repeatable models. Risk if more usage goes to future scenarios. |  
 
 
-## Cost Model - This seems to have been replaced with the Feature Table and Margin Calulator. 
-
-| Cost Category | Per-User/Month | Notes |
-|--------------|----------------|-------|
-| Inference (primary model) | | |
-| Inference (cascading/triage) | | |
-| Infrastructure | | |
-| Data/storage | | |
-| Human-in-the-loop | | |
-| **Total AI COGS** | | |
-
-
 # Margin Calculator, Module 3
 
 ## Inputs
