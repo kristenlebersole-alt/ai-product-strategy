@@ -99,17 +99,6 @@ Visualizations and Reports | source: Support ticket | signal: Trust gap | freq: 
 
 → Details: [`05-the-guardrails/`](05-the-guardrails/)
 
-## The Pitch (M6)
-
-**How you get this funded, shipped, and adopted.**
-
-- **Horizon 1 (Now):** AI PDF Contract Reader
-- **Horizon 2 (Next):**
-- **Horizon 3 (Bet):** Developing the compounding asset of the accumulated airline-contract-specific rule library and pairing it with the data 
-- **Board Narrative:** **The case:**
-- **Ask:** ## M1 Baseline vs. Now
-- **Key Strategic Change:**
-
 - ## The Pitch (M6)
 
 **How you get this funded, shipped, and adopted.**
