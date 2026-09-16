@@ -89,7 +89,10 @@
 - **Escalation Triggers:** Escalation triggers: 1) Customer Message indicates breach in privacy or security (Every time) 2) Editability needed of rules increases 10% over 4 uploads 3) Token Overusage 2% over customer limits or 5% over product limits 4) Data Associated with PII or PCI Discovered 5) Data Retention (Contract Visuals) past 1 YEAR of Approval
 
 - **Audit Cadence:** Audit cadence: Daily, Usage and Update Dashboards (SRE). Daily, Golden Dataset Modifications/Changes (Lead Engineer). Weekly, Error Rates and Issues (Product Manager).
-- **Shadow AI Audit (user-side):**
+- **Shadow AI Audit (user-side):** Merge with Outside Data | source: User interview | signal: Capability gap | freq: H | spend: $100/mo | decision: Ignore
+Contract Scenario Negotiations | source: Other | signal: Capability gap | freq: M | spend: $4000/mo | decision: Build
+Contract Development | source: Sales call | signal: Trust gap | freq: M | spend: $1000/mo | decision: Build
+Visualizations and Reports | source: Support ticket | signal: Trust gap | freq: M | spend: $100/mo | decision: Build
 - **Agent Boundaries:** Not Shipping Agents
 - **Regulatory Exposure:** Regulatory exposure (EU AI Act / other): Customer Privacy and Data Privacy (GDPR and US State Privacy Data Broker Protections). Controls: No training on PII or PCI or Legal Data List.
 
