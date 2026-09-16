@@ -43,15 +43,42 @@ Not Shipping Agents
 
 ## Shadow AI Audit
 
-| Tool | Owner | Risk Level | Decision |
-|------|-------|-----------|----------|
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
+Shadow AI Audit (user-side), Module 5
 
-**Total tools found:**
-**Tools after triage:**
-**Estimated hidden spend:**
+## Discover, User-Side Workarounds
+- Merge with Outside Data | source: User interview | signal: Capability gap | freq: H | spend: $100/mo | decision: Ignore
+- Contract Scenario Negotiations | source: Other | signal: Capability gap | freq: M | spend: $4000/mo | decision: Build
+- Contract Development | source: Sales call | signal: Trust gap | freq: M | spend: $1000/mo | decision: Build
+- Visualizations and Reports | source: Support ticket | signal: Trust gap | freq: M | spend: $100/mo | decision: Build
+
+## Pattern Assessment
+- Workarounds found: 4
+- Build candidates: 3
+- Partner candidates: 0
+- Ignore decisions: 1
+- Adjacent spend: $5200/mo
+- Dominant signal: Capability gap
+
+## Action Plan
+### Build
+Adding Value with Visualizations and Reports. Ensure the learnings of other customers and users compounds so it is not in the best interest.  
+
+### Partner
+Contract Development can partner with customers into their systems (reusing or rewriting of the contract rules). 
+
+### Ignore + Monitor
+Much of the data would be internal and proprietary. Could align with other external data.
+
+## Roadmap Brief
+Based on your audit: 4 user-side workarounds discovered.
+Decisions: 3 build · 0 partner · 1 ignore · 0 TBD.
+Estimated adjacent spend: $5200/mo across surveyed users.
+Dominant signal: Capability gap.
+
+Recommended next step: Capability gaps dominate, users want something your product does not do. Strongest near-term move is building one or two of these natively before a competitor does.
+
+Sequence the Build column by frequency × strategic relevance. Confirm Partner candidates with the external tools' partnership teams. Re-run this audit each quarter, workarounds shift fast.
+
 
 
 **Responsible AI Maturity**
