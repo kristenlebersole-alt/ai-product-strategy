@@ -63,7 +63,7 @@ Probablistic issues in which it produces too many hallunications with the data o
 **Why this won't get copied in 6 months.**
 
 - **Data Flywheel Score:** 12/20
-- **Weakest Loop:**
+- **Weakest Loop:** * Preference Loop *
 - **Competitive Position:** [describe axes + placement]
 - **Encroachment Defense:**
 - **Vendor Portability:** Ready / Partial / Locked
